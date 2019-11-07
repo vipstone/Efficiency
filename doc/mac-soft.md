@@ -1,16 +1,20 @@
 # MAC 必备工具清单
 
 ## 开发者必备工具
-- SVN 视图管理工具
+### SVN 视图管理工具
 ![](http://icdn.apigo.cn/mweb/2019110515729189049014.jpg)
-- Git 视图管理工具
+### Git 视图管理工具
 ![](http://icdn.apigo.cn/mweb/2019110515729193558550.jpg)
 
-- 虚拟机：Parallels Desktop
+### 虚拟机：Parallels Desktop
 ![](http://icdn.apigo.cn/mweb/2019110615730334734353.jpg)
 
-- 数据库连接工具：Navicat Premium for Mac
+### 数据库连接工具：Navicat Premium for Mac
 ![](http://icdn.apigo.cn/mweb/2019110615730336199699.jpg)
+
+#### Navicat 相关快捷键
+- Ctrl Shift + R：运行选中的 SQL 命令
+- 
 
 
 
